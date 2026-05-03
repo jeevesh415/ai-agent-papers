@@ -43,3 +43,5 @@ These papers discuss the perceptual abilities that enable agents to understand t
 * [Jun 2024] **DrVideo: Document Retrieval Based Long Video Understanding"** [[paper](https://arxiv.org/abs/2406.12846)]
 * [Oct 2024] **"Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning"** [[paper](https://arxiv.org/abs/2410.20252)]
 * [Dec 2025] **"World Models That Know When They Don’t Know: Controllable Video Generation with Calibrated Uncertainty"** [[paper](https://arxiv.org/abs/2512.05927v1)]
+* [Apr 2026] **"Communicate-Predict-Act: Evaluating Social Intelligence of Agents"** [[paper](https://arxiv.org/abs/2604.08727)]
+* [Apr 2026] **"The World Leaks the Future: Harness Evolution for Future Prediction Agents"** [[paper](https://arxiv.org/abs/2604.15719)]

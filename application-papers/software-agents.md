@@ -93,3 +93,4 @@
 * ⚖️ [Mar 2026] **"CR-Bench: Evaluating the Real-World Utility of AI Code Review Agents"** [[paper](https://arxiv.org/abs/2603.11078)]
 * ⚖️ [Mar 2026] **"SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?"** [[paper](https://arxiv.org/abs/2603.15401)]
 * [Apr 2026] **"Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs"** [[paper](https://arxiv.org/abs/2604.00824)]
+* [Apr 2026] **"SWE-chat: Coding Agent Interactions From Real Users in the Wild"** [[paper](https://arxiv.org/abs/2604.20779)]

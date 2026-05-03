@@ -65,6 +65,8 @@
 * [Feb 2026] **"ClawMobile: Rethinking Smartphone-Native Agentic Systems"** [[paper](https://arxiv.org/abs/2602.22942)]
 * [Apr 2026] **"When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation"** [[paper](https://arxiv.org/abs/2604.00892)]
 * [Apr 2026] **"GPA: Learning GUI Process Automation from Demonstrations"** [[paper](https://arxiv.org/abs/2604.01676)]
+* [Apr 2026] **"The Art of Building Verifiers for Computer Use Agents"** [[paper](https://arxiv.org/abs/2604.06240)]
+* [Apr 2026] **"On the Reliability of Computer Use Agents"** [[paper](https://arxiv.org/abs/2604.17849)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
@@ -110,6 +112,7 @@
 * [Sep 2025] **"Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness"** [[paper](https://arxiv.org/abs/2510.01670)]
 * [Dec 2025] **"Evaluating Long-Context Reasoning in LLM-Based WebAgents"** [[paper](https://arxiv.org/abs/2512.04307v1)]
 * [Jan 2026] **"ExpSeek: Self-Triggered Experience Seeking for Web Agents"** [[paper](https://arxiv.org/abs/2601.08605v1)]
+* [Apr 2026] **"Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis"** [[paper](https://arxiv.org/abs/2604.20855)]
 
 ### Mobile Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]

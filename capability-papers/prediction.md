@@ -16,3 +16,6 @@ Agents that predict future events, states, or outcomes, and perform forecasting 
 * [Feb 2026] **"PreScience: A Benchmark for Forecasting Scientific Contributions"** [[paper](https://arxiv.org/abs/2602.20459)]
 * [Mar 2026] **"Learning Next Action Predictors from Human-Computer Interaction"** [[paper](https://arxiv.org/abs/2603.05923)]
 * [Mar 2026] **"Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning"** [[paper](https://arxiv.org/abs/2603.27820)]
+* [Apr 2026] **"Foresight Optimization for Strategic Reasoning in Large Language Models"** [[paper](https://arxiv.org/abs/2604.13592)]
+* [Apr 2026] **"WhatIf: Interactive Exploration of LLM-Powered Social Simulations for Policy Reasoning"** [[paper](https://arxiv.org/abs/2604.17615)]
+* ⚖️ [Apr 2026] **"TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems"** [[paper](https://arxiv.org/abs/2604.05364)]
