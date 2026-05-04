@@ -130,4 +130,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Apr 2026] **"Hierarchical Long-Term Semantic Memory for LinkedIn’s Hiring Agent"** [[paper](https://arxiv.org/abs/2604.26197)]
 * [Apr 2026] **"OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory"** [[paper](https://arxiv.org/abs/2604.26622)]
 * [Apr 2026] **"Contextual Agentic Memory is a Memo, Not True Memory"** [[paper](https://arxiv.org/abs/2604.27707)]
-* [Apr 2026] **"RepoDoc: A Knowledge Graph-Based Framework to Automatic Documentation Generation and Incremental Updates"**
+* [Apr 2026] **"RepoDoc: A Knowledge Graph-Based Framework to Automatic Documentation Generation and Incremental Updates"** [[paper](https://arxiv.org/abs/2604.26523v1)]
