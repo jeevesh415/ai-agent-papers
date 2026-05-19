@@ -59,7 +59,46 @@ An AI Agent is an autonomous system powered by large language models that can pe
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
-# March/30 Highlights
+# April Highlights
+
+## Self-Evolving Agents
+* **"CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery"** [[paper](https://arxiv.org/abs/2604.01658)]
+* **"EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification"** [[paper](https://arxiv.org/abs/2604.01687)]
+* **"SkillX: Automatically Constructing Skill Knowledge Bases for Agents"** [[paper](https://arxiv.org/abs/2604.04804)]
+* **"SkillClaw: Let Skills Evolve Collectively with Agentic Evolver"** [[paper](https://arxiv.org/abs/2604.08377)]
+* ⚖️ **"SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment"** [[paper](https://arxiv.org/abs/2604.08988)]
+* **"Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks"** [[paper](https://arxiv.org/abs/2604.11610)]
+* ⚖️ **"Frontier-Eng: Benchmarking Self-Evolving Agents on Real-World Engineering Tasks with Generative Optimization"** [[paper](https://arxiv.org/abs/2604.12290)]
+* **"EVOSPARK: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution"** [[paper](https://arxiv.org/abs/2604.12776)]
+* **"Discovering Novel LLM Experts via Task-Capability Convolution"** [[paper](https://arxiv.org/abs/2604.14969)]
+* **"PolicyBank: Evolving Policy Understanding for LLM Agents"** [[paper](https://arxiv.org/abs/2604.15505)]
+* **"BILEVEL OPTIMIZATION OF AGENT SKILLS VIA MONTE CARLO TREE SEARCH"** [[paper](https://arxiv.org/abs/2604.15709)]
+* ⚖️ **"HORIZONBENCH: Long-Horizon Personalization with Evolving Preferences"** [[paper](https://arxiv.org/abs/2604.17283)]
+* **"Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration"** [[paper](https://arxiv.org/abs/2604.18131)]
+* **"Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence"** [[paper](https://arxiv.org/abs/2604.18292)]
+* **"A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression"** [[paper](https://arxiv.org/abs/2604.19572)]
+* **"Prism: An Evolutionary Memory Substrate for Multi-Agent Open-Ended Discovery"** [[paper](https://arxiv.org/abs/2604.19795)]
+* **"EVOAGENT: AN EVOLVABLE AGENT FRAMEWORK WITH SKILL LEARNING AND MULTI-AGENT DELEGATION"** [[paper](https://arxiv.org/abs/2604.20133)]
+* **"Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2604.20987)]
+* **"AEL: Agent Evolving Learning for Open-Ended Environments"** [[paper](https://arxiv.org/abs/2604.21725)]
+
+## Skills
+* **"SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization"** [[paper](https://arxiv.org/abs/2604.02268)]
+* **"EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification"** [[paper](https://arxiv.org/abs/2604.01687)]
+* **"How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings"** [[paper](https://arxiv.org/abs/2604.04323)]
+* **"SkillX: Automatically Constructing Skill Knowledge Bases for Agents"** [[paper](https://arxiv.org/abs/2604.04804)]
+* **"SkillClaw: Let Skills Evolve Collectively with Agentic Evolver"** [[paper](https://arxiv.org/abs/2604.08377)]
+* **"Red Skills or Blue Skills? A Dive Into Skills Published on ClawHub"** [[paper](https://arxiv.org/abs/2604.13064)]
+* **"BILEVEL OPTIMIZATION OF AGENT SKILLS VIA MONTE CARLO TREE SEARCH"** [[paper](https://arxiv.org/abs/2604.15709)]
+* **"Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents"** [[paper](https://arxiv.org/abs/2604.15877)]
+* ⚖️ **"SKILLFLOW: Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents"** [[paper](https://arxiv.org/abs/2604.17308)]
+* ⚖️ **"SkillLearnBench: Benchmarking Continual Learning Methods for Agent Skill Generation on Real-World Tasks"** [[paper](https://arxiv.org/abs/2604.20087)]
+* **"EVOAGENT: AN EVOLVABLE AGENT FRAMEWORK WITH SKILL LEARNING AND MULTI-AGENT DELEGATION"** [[paper](https://arxiv.org/abs/2604.20133)]
+* **"Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2604.20987)]
+* **"From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills"** [[paper](https://arxiv.org/abs/2604.24026)]
+* **"Skill Retrieval Augmentation for Agentic AI"** [[paper](https://arxiv.org/abs/2604.24594)]
+
+# March Highlights
 
 ## Research Agents
 * **"Agentic Scientific Simulation: Execution-Grounded Model Construction and Reconstruction"** [[paper](https://arxiv.org/abs/2603.00214)]
@@ -72,7 +111,7 @@ An AI Agent is an autonomous system powered by large language models that can pe
 * **"Can AI Scientist Agents Learn from Lab-in-the-Loop Feedback? Evidence from Iterative Perturbation Discovery"** [[paper](https://arxiv.org/abs/2603.26177)]
 * ⚖️ **"SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents"** [[paper](https://arxiv.org/abs/2603.29139)]
 * **"FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration"** [[paper](https://arxiv.org/abs/2603.29557)]
-* [Apr 2026] **"A Visionary Look at Vibe Researching"** [[paper](https://arxiv.org/abs/2604.00945)]
+* **"A Visionary Look at Vibe Researching"** [[paper](https://arxiv.org/abs/2604.00945)]
 
 ## Human-AI
 * **"ViviDoc: Generating Interactive Documents through Human-Agent Collaboration"** [[paper](https://arxiv.org/abs/2603.01912)]

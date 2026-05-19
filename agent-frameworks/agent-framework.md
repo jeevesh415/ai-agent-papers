@@ -116,7 +116,11 @@
 * [Mar 2026] **"MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild"** [[paper](https://arxiv.org/abs/2603.17187)]
 * 📖 [Mar 2026] **"The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration"** [[paper](https://arxiv.org/abs/2603.22862)]
 * [Mar 2026] **"GEMS: Agent-Native Multimodal Generation with Memory and Skills"** [[paper](https://arxiv.org/abs/2603.28088)]
+* 📖 [Mar 2026] **"From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents"** [[paper](https://arxiv.org/abs/2603.22386)]
+* [Mar 2026] **"An Alternative Trajectory for Generative AI"** [[paper](https://arxiv.org/abs/2603.14147)]
 * [Apr 2026] **"Terminal Agents Suffice for Enterprise Automation"** [[paper](https://arxiv.org/abs/2604.00073)]
+* [Apr 2026] **"SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering"** [[paper](https://arxiv.org/abs/2604.11548)]
+* [Apr 2026] **"AN ALTERNATE AGENTIC AI ARCHITECTURE(IT’S ABOUT THE DATA)"** [[paper](https://arxiv.org/abs/2604.21413)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -161,6 +165,8 @@
 * [Jan 2026] **"Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline"** [[paper](https://arxiv.org/abs/2601.12307v1)]
 * [Feb 2026] **"AORCHESTRA: Automating Sub-Agent Creation for Agentic Orchestration"** [[paper](https://arxiv.org/abs/2602.03786)]
 * [Mar 2026] **"Language Model Teams as Distributed Systems"** [[paper](https://arxiv.org/abs/2603.12229)]
+* [Apr 2026] **"FEDERATION OVER TEXT: INSIGHT SHARING FOR MULTI-AGENT REASONING"** [[paper](https://arxiv.org/abs/2604.16778)]
+* [Apr 2026] **"Recursive Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2604.25917)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -229,3 +235,4 @@
 * [Mar 2026] **"Ask or Assume? Uncertainty-Aware Clarification-Seeking in Coding Agents"** [[paper](https://arxiv.org/abs/2603.26233)]
 * [Mar 2026] **"Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities"** [[paper](https://arxiv.org/abs/2603.05542)]
 * [Apr 2026] **"Making Sense of AI Agents Hype: Adoption, Architectures, and Takeaways from Practitioners"** [[paper](https://arxiv.org/abs/2604.00189)]
+* [Apr 2026] **"Autogenesis: A Self-Evolving Agent Protocol"** [[paper](https://arxiv.org/abs/2604.15034)]

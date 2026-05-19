@@ -43,3 +43,5 @@
 * [Aug 2025] **"Re4: Scientific Computing Agent with Rewriting, Resolution, Review and Revision"** [[paper](https://arxiv.org/abs/2508.20729)]
 * [Aug 2025] **"GDS Agent: A Graph Algorithmic Reasoning Agent"** [[paper](https://arxiv.org/abs/2508.20637)]
 * [Jan 2026] **"From Idea to Co-Creation: A Planner–Actor–Critic Framework for Agent Augmented 3D Modeling"** [[paper](https://www.arxiv.org/abs/2601.05016)]
+* [Feb 2026] **"Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models"** [[paper](https://arxiv.org/abs/2602.12419)]
+* ⚖️ [Apr 2026] **"PHMForge: A Scenario-Driven Agentic Benchmark for Industrial Asset Lifecycle Maintenance"** [[paper](https://arxiv.org/abs/2604.01532)]

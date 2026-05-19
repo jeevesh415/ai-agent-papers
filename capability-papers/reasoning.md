@@ -97,3 +97,6 @@
 * [Jan 2026] **"Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates"** [[paper](https://arxiv.org/abs/2601.18510)]
 * ⚖️ [Mar 2026] **"The PokeAgent Challenge: Competitive and Long-Context Learning at Scale"** [[paper](https://arxiv.org/abs/2603.15563)]
 * [Mar 2026] **"A Subgoal-driven Framework for Improving Long-Horizon LLM Agents"** [[paper](https://arxiv.org/abs/2603.19685)]
+* [Apr 2026] **"Decocted Experience Improves Test-Time Inference in LLM Agents"** [[paper](https://arxiv.org/abs/2604.04373)]
+* [Apr 2026] **"A Decomposition Perspective to Long-context Reasoning for LLMs"** [[paper](https://arxiv.org/abs/2604.07981)]
+* [Apr 2026] **"The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break"** [[paper](https://arxiv.org/abs/2604.11978)]

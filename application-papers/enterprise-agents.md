@@ -21,3 +21,8 @@ Agents designed for enterprise operations, document management, CRM, HR, and bus
 * ⚖️ [Jan 2026] **"AGENCYBENCH: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts"** [[paper](https://arxiv.org/abs/2601.11044v2)]
 * ⚖️ [Jan 2026] **"Agent Benchmarks Fail Public Sector Requirements"** [[paper](https://arxiv.org/abs/2601.20617v1)]
 * [Jan 2026] **"Agentic Business Process Management Systems"** [[paper](https://arxiv.org/abs/2601.18833)]
+* ⚖️ [Apr 2026] **"CLAWSBENCH: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces"** [[paper](https://arxiv.org/abs/2604.05172)]
+* ⚖️ [Apr 2026] **"KWBench: Measuring Unprompted Problem Recognition in Knowledge Work"** [[paper](https://arxiv.org/abs/2604.15760)]
+* [Apr 2026] **"Stateless Decision Memory for Enterprise AI Agents"** [[paper](https://arxiv.org/abs/2604.20158)]
+* ⚖️ [Apr 2026] **"CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents"** [[paper](https://arxiv.org/abs/2604.21308)]
+* [Apr 2026] **"TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale"** [[paper](https://arxiv.org/abs/2604.21889)]

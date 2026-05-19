@@ -102,6 +102,8 @@
 * [Sep 2025] **"MAS^2: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.24323)]
 * [Feb 2026] **"Evaluating Collective Behaviour of Hundreds of LLM Agents"** [[paper](https://arxiv.org/abs/2602.16662)]
 * [Apr 2026] **"HabitatAgent: An End-to-End Multi-Agent System for Housing Consultation"** [[paper](https://arxiv.org/abs/2604.00556)]
+* [Apr 2026] **"Don’t Make the LLM Read the Graph: Make the Graph Think Architectural Integration of Belief Graphs for Multi-Agent LLM Reasoning"** [[paper](https://arxiv.org/abs/2604.23057)]
+
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
@@ -156,3 +158,8 @@
 * [Mar 2026] **"Position: AI Agents Are Not (Yet) a Panacea for Social Simulation"** [[paper](https://arxiv.org/abs/2603.00113)]
 * [Mar 2026] **"Emergent Social Intelligence Risks in Generative Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2603.27771)]
 * [Apr 2026] **"Do Agents Repair When Challenged — or Just Reply? Challenge, Repair, and Public Correction in a Deployed Agent Forum"** [[paper](https://arxiv.org/abs/2604.00518)]
+* [Apr 2026] **"Commercial Persuasion in AI-Mediated Conversations"** [[paper](https://arxiv.org/abs/2604.04263)]
+* [Apr 2026] **"Implementing surrogate goals for safer bargaining in LLM-based agents"** [[paper](https://arxiv.org/abs/2604.04341)]
+* ⚖️ [Apr 2026] **"Sell More, Play Less: Benchmarking LLM Realistic Selling Skill"** [[paper](https://arxiv.org/abs/2604.07054)]
+* [Apr 2026] **"We Need Strong Preconditions For Using Simulations In Policy"** [[paper](https://arxiv.org/abs/2604.07838)]
+* [Apr 2026] **"WhatIf: Interactive Exploration of LLM-Powered Social Simulations for Policy Reasoning"** [[paper](https://arxiv.org/abs/2604.17615)]

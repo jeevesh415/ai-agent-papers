@@ -102,3 +102,4 @@
 * [Mar 2026] **"PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost"** [[paper](https://arxiv.org/abs/2603.21383)]
 * [Mar 2026] **"Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe"** [[paper](https://arxiv.org/abs/2603.21972)]
 * [Mar 2026] **"From AI Assistant to AI Scientist: Autonomous Discovery of LLM-RL Algorithms with LLM Agents"** [[paper](https://arxiv.org/abs/2603.23951)]
+* [Apr 2026] **"CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution"** [[paper](https://arxiv.org/abs/2604.15840)]

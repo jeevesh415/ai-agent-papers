@@ -151,3 +151,7 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Mar 2026] **"Interview-Informed Generative Agents for Product Discovery: A Validation Study"** [[paper](https://arxiv.org/abs/2603.29890)]
 * [Apr 2026] **"HabitatAgent: An End-to-End Multi-Agent System for Housing Consultation"** [[paper](https://arxiv.org/abs/2604.00556)]
 * 📖 [Apr 2026] **"The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook"** [[paper](https://arxiv.org/abs/2604.02029)]
+* [Apr 2026] **"From Topology to Trajectory: LLM-Driven World Models For Supply Chain Resilience"** [[paper](https://arxiv.org/abs/2604.11041)]
+* ⚖️ [Apr 2026] **"YIELD: A Large-Scale Dataset and Evaluation Framework for Information Elicitation Agents"** [[paper](https://arxiv.org/abs/2604.10968)]
+* [Apr 2026] **"Pioneer Agent: Continual Improvement of Small Language Models in Production"** [[paper](https://arxiv.org/abs/2604.09791)]
+* [Apr 2026] **"Hierarchical Long-Term Semantic Memory for LinkedIn’s Hiring Agent"** [[paper](https://arxiv.org/abs/2604.26197)]

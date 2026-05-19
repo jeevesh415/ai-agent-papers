@@ -3,8 +3,12 @@
 Agents applied to financial analysis, trading, risk assessment, and financial document processing.
 
 * [Feb 2024] **"A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist"** [[paper](https://arxiv.org/abs/2402.18485)]
+* [Jul 2024] **"FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets"** [[paper](https://arxiv.org/abs/2407.10909)]
+* [May 2025] **"FinRipple: Aligning Large Language Models with Financial Market for Event Ripple Effect Awareness"** [[paper](https://arxiv.org/abs/2505.23826)]
 * ⚖️ [Aug 2025] **"Finance Agent Benchmark: Benchmarking LLMs on Real-world Financial Research Tasks"** [[paper](https://arxiv.org/abs/2508.00828)]
 * [Aug 2025] **"Modeling and Detecting Company Risks from News"** [[paper](https://arxiv.org/abs/2508.10927v1)]
+* [Aug 2025] **"FinReflectKG: Agentic Construction and Evaluation of Financial Knowledge Graphs"** [[paper](https://arxiv.org/abs/2508.17906)]
+* [Aug 2025] **"FinKario: Event-Enhanced Automated Construction of Financial Knowledge Graph"** [[paper](https://arxiv.org/abs/2508.00961)]
 * [Sep 2025] **"FinDebate: Multi-Agent Collaborative Intelligence for Financial Analysis"** [[paper](https://arxiv.org/abs/2509.17395)]
 * [Oct 2025] **"GuruAgents: Emulating Wise Investors with Prompt-Guided LLM Agents"** [[paper](https://arxiv.org/abs/2510.01664)]
 * [Oct 2025] **"FinDeepResearch: Evaluating Deep Research Agents in Rigorous Financial Analysis"** [[paper](https://www.arxiv.org/abs/2510.13936)]
@@ -12,6 +16,8 @@ Agents applied to financial analysis, trading, risk assessment, and financial do
 * ⚖️ [Dec 2025] **"Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows"** [[paper](https://arxiv.org/abs/2512.13168v1)]
 * [Dec 2025] **"Generative AI for Analysts"** [[paper](https://arxiv.org/abs/2512.19705v1)]
 * [Dec 2025] **"Automated Analysis of Sustainability Reports: Using Large Language Models for the Extraction and Prediction of EU Taxonomy-Compliant KPIs"** [[paper](https://arxiv.org/abs/2512.24289v1)]
+* [Dec 2025] **"StockMem: An Event-Reflection Memory Framework for Stock Forecasting"** [[paper](https://arxiv.org/abs/2512.02720)]
+* [Dec 2025] **"OntoMetric: An Ontology-Driven LLM-Assisted Framework for Automated ESG Metric Knowledge Graph Generation"** [[paper](https://arxiv.org/abs/2512.01289)]
 * [Jan 2026] **"FINDEEPFORECAST: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting"** [[paper](https://www.arxiv.org/abs/2601.05039)]
 * ⚖️ [Jan 2026] **"FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments"** [[paper](https://arxiv.org/abs/2601.07853v1)]
 * [Jan 2026] **"Advancing ESG Intelligence: An Expert-level Agent and Comprehensive Benchmark for Sustainable Finance"** [[paper](https://arxiv.org/abs/2601.08676v2)]
@@ -28,3 +34,6 @@ Agents applied to financial analysis, trading, risk assessment, and financial do
 * ⚖️ [Mar 2026] **"Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies"** [[paper](https://arxiv.org/abs/2603.22651)]
 * ⚖️ [Mar 2026] **"Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments"** [[paper](https://arxiv.org/abs/2603.23638)]
 * ⚖️ [Apr 2026] **"YC-Bench: Benchmarking AI Agents for Long-Term Planning and Consistent Execution"** [[paper](https://arxiv.org/abs/2604.01212)]
+* ⚖️ [Apr 2026] **"BankerToolBench: Evaluating AI Agents in End-to-End Investment Banking Workflows"** [[paper](https://arxiv.org/abs/2604.11304)]
+* [Apr 2026] **"Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning"** [[paper](https://arxiv.org/abs/2604.12282)]
+* [Apr 2026] **"FinReporting: An Agentic Workflow for Localized Reporting of Cross-Jurisdiction Financial Disclosures"** [[paper](https://arxiv.org/abs/2604.05966)]

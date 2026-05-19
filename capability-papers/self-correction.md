@@ -61,3 +61,5 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Dec 2025] **"SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents"** [[paper](https://arxiv.org/abs/2512.22322v1)]
 * [Jan 2026] **"A Survey on Agent-as-a-Judge"** [[paper](https://arxiv.org/abs/2601.05111v1)]
 * [Mar 2026] **"Judge Reliability Harness: Stress Testing the Reliability of LLM Judges"** [[paper](https://arxiv.org/abs/2603.05399)]
+* [Apr 2026] **"The Art of Building Verifiers for Computer Use Agents"** [[paper](https://arxiv.org/abs/2604.06240)]
+* ⚖️ [Apr 2026] **"AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation"** [[paper](https://arxiv.org/abs/2604.18240)]
